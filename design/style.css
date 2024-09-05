@@ -288,4 +288,8 @@ color:hsl(14, 60%, 39%)
         width:100%;
         margin:0;
     }
+
+    .span-s{
+        margin-bottom:90px;
+    }
 }
