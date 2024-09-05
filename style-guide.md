@@ -11,26 +11,30 @@ The designs were created to the following widths:
 
 ## Colors
 
-### Primary
+- White: hsl(0, 0%, 100%)
 
-- Gradient: hsl(6, 100%, 80%) to hsl(335, 100%, 65%)
+- Stone 100: hsl(30, 54%, 90%)
+- Stone 150: hsl(30, 18%, 87%)
+- Stone 600: hsl(30, 10%, 34%)
+- Stone 900: hsl(24, 5%, 18%)
 
-### Neutral
+- Brown 800: hsl(14, 45%, 36%)
 
-- Pale Blue: hsl(243, 100%, 93%)
-- Grayish Blue: hsl(229, 7%, 55%)
-- Dark Blue: hsl(228, 56%, 26%)
-- Very Dark Blue: hsl(229, 57%, 11%)
+- Rose 800: hsl(332, 51%, 32%)
+- Rose 50: hsl(330, 100%, 98%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 14px
+- Font size (paragraph): 16px
 
-### Font
+### Fonts
 
-- Family: [Raleway](https://fonts.google.com/specimen/Raleway)
-- Weights: 400, 700
+- Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
+- Weights: 400
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Weights: 400, 600, 700
+
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a design system and tablet layout to help you build a more accurate solution faster.
