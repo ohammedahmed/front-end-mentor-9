@@ -283,4 +283,9 @@ color:hsl(14, 60%, 39%)
         margin-top:250px;
         margin-bottom:50;
     }
+
+    .all{
+        width:100%;
+        margin:0;
+    }
 }
